@@ -26,9 +26,9 @@
         "url": "https://github.com/arhohuttunen"
       },
       {
-        "network": "Twitter",
-        "username": "ArhoHuttunen",
-        "url": "https://www.twitter.com/ArhoHuttunen"
+        "network": "Mastodon",
+        "username": "@arhohuttunen@fosstodon.org",
+        "url": "https://fosstodon.org/@arhohuttunen"
       },
       {
         "network": "StackOverflow",
